@@ -20,7 +20,7 @@ GIT
 - git branch <name> : Tạo mới 1 branch
 - git push --set-upstream origin <branch name> : Tạo 1 branch trên GitHub
 - git checkout main: chuyển về làm việc trong branch main
-- git checkout - b <tên branch>: tạo branch và chuyển sang làm việc với 1 branch khác
+- git checkout - b <tên branch>: tạo branch và chuyển sang làm việc với branch vừa tạo
 - git merge <tên branch> : merge thay đổi trên branch khác vào main
 
 
