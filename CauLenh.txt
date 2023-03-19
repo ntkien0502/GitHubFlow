@@ -1,0 +1,30 @@
+GIT
+
+-- Khởi tạo GIT repo và push lên repositories trên GITHub
+- git init : Khởi tạo 1 git repo
+- git status : Kiểm tra thông tin các file của dự án
+- git add <file> : Thêm file vào thư mục git
+- git commit : commit file vào thư mục git
+- Đẩy từ git local lên server:
+	git remote add origin https://github.com/ntkien0502/blog.git
+	git branch -M main
+	git push -u origin main
+- git push : Đẩy thay đổi từ repo lên server
+
+-- Pull từ Github về máy
+- git pull : get project từ server về repo
+	
+-- Nâng cao
+- git log: Xem lịch sử commit
+- git branch: danh sách branch
+- git branch <name> : Tạo mới 1 branch
+- git checkout main: chuyển về làm việc trong branch main
+- git checkout - b <tên branch>: tạo branch và chuyển sang làm việc với 1 branch khác
+- git merge <tên branch> : merge thay đổi trên branch khác vào main
+
+
+-- Restore
+- git restore --staged <file>: đưa file đã add vào repo về lại trạng thái đang làm việc
+- git checkout <hash> : đưa project về trạng thái của 1 hash đã commit
+
+7929AAW16UNT77MU13FE85PGUEJFK
