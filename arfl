@@ -1,0 +1,77 @@
+[33mcommit e71640d3efb6fbbb6e74ebbc7fd0464a69c5dbe7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 60b6104 d5ab82b
+Author: Kien Nguyen <nkien0502@gmail.com>
+Date:   Sun Mar 19 14:52:57 2023 +0700
+
+    edit about
+
+[33mcommit d5ab82b80dec52646a36e325ad79132bf9e1f028[m[33m ([m[1;31morigin/nva[m[33m, [m[1;32mnva[m[33m)[m
+Author: Kien Nguyen <nkien0502@gmail.com>
+Date:   Sun Mar 19 14:50:02 2023 +0700
+
+    edit
+
+[33mcommit 60b610445c17c9dce5d3376d086ea1205e74c792[m
+Author: ntkien0502 <48385653+ntkien0502@users.noreply.github.com>
+Date:   Sun Mar 19 14:06:39 2023 +0700
+
+    edit file about by nva (#1)
+    
+    * edit file about by nva
+    
+    * Update about
+
+[33mcommit 552dad00744765d491600d7791edc69305a73a1e[m
+Author: Kien Nguyen <nkien0502@gmail.com>
+Date:   Sun Mar 19 14:04:02 2023 +0700
+
+    Update about
+
+[33mcommit 39984ec110cb020c1b33e0146b7ceca6fbc57f67[m
+Author: Kien Nguyen <nkien0502@gmail.com>
+Date:   Sun Mar 19 13:58:52 2023 +0700
+
+    edit file about by nva
+
+[33mcommit 791c953984ea8156d2eacc9f03f8b1361bd7bc81[m[33m ([m[1;31morigin/ntkien2[m[33m)[m
+Author: Kien Nguyen <nkien0502@gmail.com>
+Date:   Sun Mar 19 13:48:13 2023 +0700
+
+    add file contact.html
+
+[33mcommit c6cab23e1dcce1fb4009abb41fab920a3347e099[m
+Merge: dd339a1 82b80de
+Author: Kien Nguyen <nkien0502@gmail.com>
+Date:   Sun Mar 19 13:39:58 2023 +0700
+
+    edit about company
+
+[33mcommit dd339a114e16b564124b1ec5396c0f551a12dc86[m
+Author: Kien Nguyen <nkien0502@gmail.com>
+Date:   Sun Mar 19 13:38:04 2023 +0700
+
+    edit about company
+
+[33mcommit 82b80de734ac5d07854419c9ae712884e270d7e4[m
+Author: Kien Nguyen <nkien0502@gmail.com>
+Date:   Sun Mar 19 13:37:07 2023 +0700
+
+    edit file about
+
+[33mcommit bf0e0af182768ade0027d79b5822827011e9255f[m
+Author: Kien Nguyen <nkien0502@gmail.com>
+Date:   Sun Mar 19 13:33:50 2023 +0700
+
+    Add about.html
+
+[33mcommit a1bf9bd180465e3d1ba2540996a2745f9dd29bb5[m
+Author: Kien Nguyen <nkien0502@gmail.com>
+Date:   Sun Mar 19 13:20:50 2023 +0700
+
+    Add file cau lenh
+
+[33mcommit a28e91eee1f15b5797d798389da6397b73a31664[m
+Author: Kien Nguyen <nkien0502@gmail.com>
+Date:   Sun Mar 19 13:10:40 2023 +0700
+
+    add index.html
