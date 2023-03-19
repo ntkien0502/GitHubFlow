@@ -18,6 +18,7 @@ GIT
 - git log: Xem lịch sử commit
 - git branch: danh sách branch
 - git branch <name> : Tạo mới 1 branch
+- git push --set-upstream origin <branch name> : Tạo 1 branch trên GitHub
 - git checkout main: chuyển về làm việc trong branch main
 - git checkout - b <tên branch>: tạo branch và chuyển sang làm việc với 1 branch khác
 - git merge <tên branch> : merge thay đổi trên branch khác vào main
@@ -26,5 +27,6 @@ GIT
 -- Restore
 - git restore --staged <file>: đưa file đã add vào repo về lại trạng thái đang làm việc
 - git checkout <hash> : đưa project về trạng thái của 1 hash đã commit
+- git revert <id> : Lấy lại phiên bản với commit id 
 
-7929AAW16UNT77MU13FE85PGUEJFK
+9cbe2ccdc491b84e12ed1516c217a8ebc1d41b78
